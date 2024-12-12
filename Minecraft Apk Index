@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Descarga Minecraft 1.21.51 APK - La última actualización con nuevos biomas, mobs y herramientas. ¡Explora y crea sin límites!">
+    <title>Minecraft 1.21.51 APK</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Minecraft 1.21.51 APK</h1>
+        <p>¡Explora el mundo de Minecraft con la última actualización!</p>
+    </header>
+
+    <main>
+        <section id="novedades">
+            <h2>🎮 Novedades de la versión</h2>
+            <ul>
+                <li><strong>Nuevos biomas misteriosos:</strong> Explora junglas de cristal y cañones volcánicos.</li>
+                <li><strong>Nuevos mobs:</strong> Descubre al Guardián Espectral y al Constructor Autómata.</li>
+                <li><strong>Herramientas y bloques:</strong> Construye con nuevos bloques decorativos y herramientas avanzadas.</li>
+                <li><strong>Optimización móvil:</strong> Gráficos optimizados y controles intuitivos para smartphones y tablets.</li>
+            </ul>
+        </section>
+
+        <section id="descargar">
+            <h2>📥 Cómo descargar Minecraft 1.21.51 APK</h2>
+            <p>Sigue estos pasos para obtener la última versión:</p>
+            <ol>
+                <li>Descarga el archivo APK desde una fuente confiable.</li>
+                <li>Instálalo en tu dispositivo móvil.</li>
+                <li>¡Comienza a disfrutar de todas las novedades!</li>
+            </ol>
+            <p><a href="https://example.com/download" class="download-link">Descargar ahora</a></p>
+        </section>
+
+        <section id="galeria">
+            <h2>📸 Galería</h2>
+            <p>Explora algunas capturas de pantalla de las nuevas características:</p>
+            <div class="gallery">
+                <img src="images/biomas.jpg" alt="Nuevos biomas">
+                <img src="images/mobs.jpg" alt="Nuevos mobs">
+                <img src="images/herramientas.jpg" alt="Nuevas herramientas">
+            </div>
+        </section>
+
+        <section id="contacto">
+            <h2>📧 Contacto</h2>
+            <p>¿Tienes preguntas o comentarios? Contáctanos:</p>
+            <ul>
+                <li>Email: <a href="mailto:soporte@minecraftapk.com">soporte@minecraftapk.com</a></li>
+                <li>Twitter: <a href="https://twitter.com/minecraft" target="_blank">@minecraft</a></li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Minecraft APK. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
